@@ -1,15 +1,14 @@
-name = "Academic Workshop"
-description = "A Zola theme for a website to list the schedule of your scientific workshop or seminar series"
+name = "CHIWORK Workshop"
+description = "Navigating Generative AI Disclosure, Ownership, and Accountability in Co-Creative Domains"
 license = "MIT"
-homepage = "https://github.com/aterenin/academic-workshop"
-min_version = "0.18.0"
-demo = "https://aterenin.github.io/academic-workshop"
+homepage = "chiwork-aidisclosure.github.io"
+min_version = "0.1.0"
 
 [extra]
-footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme, which is [designed to last](https://jeffhuang.com/designed_to_last/)."
+footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme."
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10
 
 [author]
-name = "Alexander Terein"
-homepage = "https://avt.im"
+name = "TBD-name"
+homepage = "TBD-homepage"
