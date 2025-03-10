@@ -1,5 +1,5 @@
 +++
-title = "Academic Workshop Zola Theme"
+title = "Workshop"
 +++
 
 
@@ -19,7 +19,7 @@ Sorry, this page is currently under construction.
         ["Speaker A","Institution A"]
     ],
     urls = [
-        "https://aterenin.github.io/academic-workshop#speaker_a"
+        "https://tbd"
     ],
     images = [
         "placeholder.svg"
@@ -38,6 +38,9 @@ Sorry, this page is currently under construction.
     text = [
         "Organizer A",
         "Organizer B",
+        "Organizer C",
+        "Organizer D",
+        "Organizer E"
     ],
     image_dir = "organizers") }}
 
