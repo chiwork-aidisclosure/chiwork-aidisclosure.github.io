@@ -5,7 +5,23 @@ sort_by = "date"
 [extra]
 +++
 
+# Keynote Speaker 
 
+{{ grid(
+    text = [
+        ["To be defined",""]
+    ],
+    urls = [
+        "https://tbd"
+    ],
+    images = [
+        "placeholder.svg"
+    ],
+    narrow = true) }}
+
+
+
+{{ new_block() }}
 
 ## Schedule
 

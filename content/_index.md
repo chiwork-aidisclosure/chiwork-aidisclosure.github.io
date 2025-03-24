@@ -33,25 +33,9 @@ At least one author of each accepted submission must attend the workshop and reg
 - Contact: [To be defined]
 
 {{ new_block() }}
-# Keynote Speaker 
-
-{{ grid(
-    text = [
-        ["To be defined",""]
-    ],
-    urls = [
-        "https://tbd"
-    ],
-    images = [
-        "placeholder.svg"
-    ],
-    narrow = true) }}
 
 
-
-{{ new_block() }}
-
-# Organizers
+## Organizers
 
 {{ grid(
     text = [
