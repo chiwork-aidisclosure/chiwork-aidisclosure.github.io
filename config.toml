@@ -10,7 +10,7 @@ highlight_code = false
 [extra]
 footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme."
 title = {tagline = "CHIWORK 2025 Workshop", title = "Navigating Generative AI Disclosure, Ownership, and Accountability in Co-Creative Domains"}
-banner = {extension = "jpg", size = "fixed", fade = true}
+banner = {extension = "jpg", size = "fixed", fade = false}
 buttons = [{name = "Home", url = "/"},{name = "Program", url = "program"}] # creates a list of buttons displayed in order, with links to the URLs
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10

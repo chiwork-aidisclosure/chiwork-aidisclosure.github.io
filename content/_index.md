@@ -51,15 +51,22 @@ At least one author of each accepted submission must attend the workshop and reg
 
 {{ new_block() }}
 
-## Organizers
+# Organizers
 
 {{ grid(
     text = [
-        "Hyo Jin Gina Do",
-        "Molly Q Feldman",
-        "Jessica He",
-        "Angel Hsing-Chi Hwang",
-        "Seyun Kim"
+        ["Hyo Jin Gina Do", "IBM Research"],
+        ["Molly Q Feldman", "Oberlin College"],
+        ["Jessica He", "IBM Research"],
+        ["Angel Hsing-Chi Hwang", "University of Southern California" ],
+        ["Seyun Kim", "Carnegie Mellon University"]
+    ],
+    urls = [
+        "https://dohyojin.github.io/",
+        "https://www.feldmanmolly.com/",
+        "https://research.ibm.com/people/jessica-he",
+        "https://angelhwang.github.io/",
+        "https://www.seyunkim.com/"
     ],
     image_dir = "organizers") }}
 
