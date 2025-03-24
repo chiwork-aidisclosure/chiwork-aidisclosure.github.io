@@ -5,14 +5,13 @@ generate_feeds = false
 minify_html = true
 
 [markdown]
-highlight_code = true
-highlight_theme = "css"
-smart_punctuation = true
+highlight_code = false
 
 [extra]
 footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme."
-title = {tagline = "", title = "Navigating Generative AI Disclosure, Ownership, and Accountability in Co-Creative Domains", subtitles = ["CHIWORK 2025 Workshop"]}
-banner = {extension = "svg", size = "fixed", fade = true}
+title = {tagline = "CHIWORK 2025 Workshop", title = "Navigating Generative AI Disclosure, Ownership, and Accountability in Co-Creative Domains"}
+banner = {extension = "jpg", size = "fixed", fade = true}
+buttons = [{name = "Home", url = "/"},{name = "Program", url = "program"}] # creates a list of buttons displayed in order, with links to the URLs
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10
 header_pages = [{name = "Home", url = "/#home"},{name = "Design", url = "/#design"}]

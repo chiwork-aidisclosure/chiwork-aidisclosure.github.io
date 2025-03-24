@@ -87,7 +87,7 @@ small {
     font-weight: 400;
 }
 .small {
-    font-size: 80% !important;
+    font-size: 100% !important;
     font-weight: 400 !important;
 }
 .strong {
@@ -95,7 +95,7 @@ small {
 }
 
 .container {
-    width: 100%;
+    width: 80%;
     max-width: $container-width;
     padding-right: $container-padding;
     padding-left: $container-padding;
