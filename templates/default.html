@@ -23,6 +23,7 @@
 
         {% block head_includes %}{% endblock head_includes %}
         {% if this.extra.head_includes %}{{ this.extra.head_includes | safe }}{% endif %}
+        
     </head>
 
     <body>
@@ -30,6 +31,23 @@
         {% block header %}{% endblock header %}
         {% block main %}{% endblock main %}
         {% block footer %}{% endblock footer %}
+    
+        <script>
+            var enableTargetBlank = function() {
+            var links = document.getElementsByTagName('a');
+        
+                for (let link of links) {
+                    if (link.hostname !== window.location.hostname && link.target === "") {
+                        link.target = "_blank";
+                    }
+                }
+            
+            };
+            {% if config.extra.enable_target_blank %}
+                enableTargetBlank();
+            {% endif %}
+        </script>
     </body>
-
 </html>
+
+

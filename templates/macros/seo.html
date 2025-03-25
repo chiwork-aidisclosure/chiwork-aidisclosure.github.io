@@ -22,4 +22,21 @@
 {% endif %}
 <meta property="twitter:title" content="{{ page.title }}">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite",{% if page.description %}"description":"{{ page.description }}",{% endif %}"headline":"{{ page.title }}",{% if card_image %}"image":"{{ card | safe }}",{% endif %}"name":"{{ page.title }}","url":"{{ url | safe }}"}</script>
+<script>
+    var enableTargetBlank = function() {
+    var links = document.getElementsByTagName('a');
+
+        for (let link of links) {
+            if (link.hostname !== window.location.hostname && link.target === "") {
+                link.target = "_blank";
+            }
+        }
+    
+    };
+    {% if config.extra.enable_target_blank %}
+        enableTargetBlank();
+    {% endif %}
+</script>
+
+
 {% endmacro %}
