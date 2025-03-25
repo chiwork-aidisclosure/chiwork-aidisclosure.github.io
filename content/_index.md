@@ -1,5 +1,5 @@
 +++
-title = "CHIWORK 2025 Workshop"
+title = "Navigating Generative AI Disclosure, Ownership, and Accountability in Co-Creative Domains"
 +++
 
 

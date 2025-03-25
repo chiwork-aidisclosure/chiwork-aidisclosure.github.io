@@ -1,8 +1,5 @@
 +++
-title = "Program"
-page_template = "item.html"
-sort_by = "date"
-[extra]
+title = "Navigating Generative AI Disclosure, Ownership, and Accountability in Co-Creative Domains"
 +++
 
 
