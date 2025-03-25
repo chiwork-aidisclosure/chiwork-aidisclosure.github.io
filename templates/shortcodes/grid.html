@@ -4,7 +4,7 @@
     {% for lines in text %}
         <div class="text-center mx-3">
             {% if urls %}
-                <a class="d-contents color-text" href="{{ urls[loop.index0] | safe }}">
+                <a class="d-contents color-text" href="{{ urls[loop.index0] | safe }}" target="_blank">
             {% endif %}
             {% set lines = text[loop.index0] %}
             {% if lines is not iterable %}

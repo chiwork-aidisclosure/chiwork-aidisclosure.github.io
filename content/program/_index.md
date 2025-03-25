@@ -5,9 +5,11 @@ sort_by = "date"
 [extra]
 +++
 
-# Keynote Speaker 
 
-{{ grid(
+
+<!-- # Keynote Speaker  -->
+
+<!-- {{ grid(
     text = [
         ["To be defined",""]
     ],
@@ -19,11 +21,11 @@ sort_by = "date"
     ],
     narrow = true) }}
 
+{{ new_block() }} -->
 
+## Schedule 
 
-{{ new_block() }}
-
-## Schedule
+**All times are in [CEST](https://time.is/Amsterdam) (Amsterdam, Netherlands time).**
 
 | Time             | Event            |
 | ---------------- | ---------------- |
@@ -35,14 +37,14 @@ sort_by = "date"
 | 12:50pm - 1:00pm  | Closing Remarks |
 
 
-{{ new_block() }}
+<!-- {{ new_block() }} -->
 
 
 
 
 
 
-## Participant Presentations
+<!-- ## Participant Presentations
 
 {{ table(
     data = "papers.csv", 
@@ -53,4 +55,4 @@ sort_by = "date"
 
 
 
-{{ new_block() }}
+{{ new_block() }} -->
