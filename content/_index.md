@@ -29,7 +29,7 @@ Questions that could be explored include, but are not limited to:
 - **Submission deadline**: April 24, 2025, 11:59 PM ([AoE](https://time.is/Anywhere_on_Earth))
 - **Notification of decisions**: May 5, 2025, 11:59 PM ([AoE](https://time.is/Anywhere_on_Earth))
 - **Camera ready (optional)**: May 14, 2025, 11:59 PM ([AoE](https://time.is/Anywhere_on_Earth))
-    - You can make your final edits before this deadline. No submission is needed if you don't make any changes.
+    - You can make your final edits to the accepted papers before this deadline. No submission is needed if you don't make any changes.
 - **Workshop**: June 23, 2025, 9:00 AM - 1:00 PM ([CEST](https://time.is/Amsterdam))
     - Room: To be announced @ [the CHIWORK venue](https://chiwork.org/attend/venue/) (Amsterdam, The Netherlands)
     - Online Link: To be announced
@@ -79,7 +79,7 @@ Questions that could be explored include, but are not limited to:
 
 {{ new_block() }}
 ## Contact
-If you have questions, please contact us at [TBD@gmail.com](TBD@gmail.com)
+If you have questions, please contact us at [genaicocreationworkshop@gmail.com](mailto:genaicocreationworkshop@gmail.com)
 
 
 
