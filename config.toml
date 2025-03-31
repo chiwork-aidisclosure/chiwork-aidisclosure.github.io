@@ -9,8 +9,8 @@ highlight_code = false
 
 [extra]
 footer_text = false #"This website is built using the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme."
-title = {tagline = "A Workshop @ The Symposium on Human-Computer Interaction for Work (CHIWORK)", title = "Navigating Generative AI Disclosure, Ownership, and Accountability in Co-Creative Domains", subtitles = ["June 23, 2025, 9AM - 1PM CEST", "Hybrid (Online & Amsterdam, The Netherlands)"]}
-banner = {extension = "png", size = "fixed", fade = false}
+title = {title=""} #{tagline = "A Workshop @ The Symposium on Human-Computer Interaction for Work (CHIWORK)", title = "Navigating Generative AI Disclosure, Ownership, and Accountability in Co-Creative Domains", subtitles = ["June 23, 2025, 9AM - 1PM CEST", "Hybrid (Online & Amsterdam, The Netherlands)"]}
+banner = {extension = "png", size = "fit-width", fade = false}
 buttons = [{name = "Home", url = "/"},{name = "Program", url = "/program"}] # creates a list of buttons displayed in order, with links to the URLs
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10
