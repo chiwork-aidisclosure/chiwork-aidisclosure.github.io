@@ -37,7 +37,7 @@ Questions that could be explored include, but are not limited to:
 {{ new_block() }}
 
 ## Submission Details
-- **Online submission**: [Google Form Link](https://forms.gle/SynADQpiMN3jaqjDA)
+- **Online submission**: [Google Form Link](https://forms.gle/tRMTBSHzHsUE5yvF9)
 - **Types**: We welcome submissions of **full or in-progress studies, design fictions, literature reviews, demonstrations, encores of published work, and position papers.** Submissions can be written in English only.
 - **Format**: PDF submissions should follow the [ACM Master Article Submission Template (single column)](https://authors.acm.org/proceedings/production-information/taps-production-workflow) and the [SIGCHI Accessibility guidelines](https://sigchi.org/conferences/author-resources/accessibility-guide/). 
 - **Quick links for templates** (Latex: please use `\documentclass[manuscript, review]{acmart})`:
