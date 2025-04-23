@@ -4,21 +4,18 @@ title = "Navigating Generative AI Disclosure, Ownership, and Accountability in C
 
 
 
-<!-- # Keynote Speaker  -->
+## Keynote Speaker 
 
-<!-- {{ grid(
+{{ grid(
     text = [
-        ["To be defined",""]
+        ["Casey Fiesler","University of Colorado Boulder"]
     ],
     urls = [
-        "https://tbd"
+        "https://caseyfiesler.com/"
     ],
-    images = [
-        "placeholder.svg"
-    ],
-    narrow = true) }}
+    image_dir = "organizers") }}
 
-{{ new_block() }} -->
+{{ new_block() }}
 
 ## Schedule 
 

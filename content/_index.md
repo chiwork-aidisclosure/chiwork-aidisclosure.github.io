@@ -26,8 +26,8 @@ Questions that could be explored include, but are not limited to:
 
 {{ new_block() }}
 ## Important Dates
-- **Submission deadline**: April 24, 2025, 11:59 PM ([AoE](https://time.is/Anywhere_on_Earth))
-- **Notification of decisions**: May 5, 2025, 11:59 PM ([AoE](https://time.is/Anywhere_on_Earth))
+- **Submission deadline**: ~~April 24, 2025~~ Extended to May 7, 2025, 11:59 PM ([AoE](https://time.is/Anywhere_on_Earth))
+- **Notification of decisions**: ~~May 5, 2025~~ Extended to May 12, 2025, 11:59 PM ([AoE](https://time.is/Anywhere_on_Earth))
 - **Camera ready (optional)**: May 14, 2025, 11:59 PM ([AoE](https://time.is/Anywhere_on_Earth))
     - You can make your final edits to the accepted papers before this deadline. No submission is needed if you don't make any changes.
 - **Workshop**: June 23, 2025, 9:00 AM - 1:00 PM ([CEST](https://time.is/Amsterdam))
@@ -52,7 +52,7 @@ Questions that could be explored include, but are not limited to:
 
 {{ new_block() }}
 ## Upon Acceptance 
-- At least one author of each accepted submission must attend the workshop, either in person in Amsterdam or virtually, and register for at least one day of the conference. 
+- At least one author of each accepted submission must attend the workshop, either in person in Amsterdam or virtually, and register for at least one day of the conference. Please visit the [CHIWORK website]((https://chiwork.org/attend/registration/)) for registration details.
 - If the authors provide their consent, accepted papers will be published in the workshop proceedings (**optional**). If they choose, authors may opt-out of archival proceedings and choose a non-archival option. In this case, we will link to their submissions on our workshop website only.
 
 

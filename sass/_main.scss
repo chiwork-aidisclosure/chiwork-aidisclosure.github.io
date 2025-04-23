@@ -1,6 +1,6 @@
 .header {
     --color-primary: var(--color-text);
-    margin-left: 120px;
+    margin-left: 0px; //button placement
 }
 .fade {
     background: color-mix(in srgb, var(--color-light) 95%, transparent);
