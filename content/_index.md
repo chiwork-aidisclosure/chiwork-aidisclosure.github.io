@@ -52,7 +52,7 @@ Questions that could be explored include, but are not limited to:
 
 {{ new_block() }}
 ## Upon Acceptance 
-- At least one author of each accepted submission must attend the workshop, either in person in Amsterdam or virtually, and register for at least one day of the conference. Please visit the [CHIWORK website]((https://chiwork.org/attend/registration/)) for registration details.
+- At least one author of each accepted submission must attend the workshop, either in person in Amsterdam or virtually, and register for at least one day of the conference. Please visit the [CHIWORK website](https://chiwork.org/attend/registration/) for registration details.
 - If the authors provide their consent, accepted papers will be published in the workshop proceedings (**optional**). If they choose, authors may opt-out of archival proceedings and choose a non-archival option. In this case, we will link to their submissions on our workshop website only.
 
 
