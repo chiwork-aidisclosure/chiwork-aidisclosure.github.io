@@ -28,7 +28,7 @@ Questions that could be explored include, but are not limited to:
 ## Important Dates
 - **Submission deadline**: ~~April 24, 2025~~ Extended to May 7, 2025, 11:59 PM ([AoE](https://time.is/Anywhere_on_Earth))
 - **Notification of decisions**: ~~May 5, 2025~~ Extended to May 12, 2025, 11:59 PM ([AoE](https://time.is/Anywhere_on_Earth))
-- **Camera ready (optional)**: May 14, 2025, 11:59 PM ([AoE](https://time.is/Anywhere_on_Earth))
+- **Camera ready (optional)**: ~~May 14, 2025~~, Extended to May 26, 2025, 11:59 PM ([AoE](https://time.is/Anywhere_on_Earth))
     - You can make your final edits to the accepted papers before this deadline. No submission is needed if you don't make any changes.
 - **Workshop**: June 23, 2025, 9:00 AM - 1:00 PM ([CEST](https://time.is/Amsterdam))
     - Room: L017 @ [the CHIWORK venue](https://chiwork.org/attend/venue/) (Amsterdam, The Netherlands)
