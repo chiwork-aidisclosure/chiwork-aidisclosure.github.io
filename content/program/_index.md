@@ -24,10 +24,11 @@ title = "Navigating Generative AI Disclosure, Ownership, and Accountability in C
 | Time             | Event            |
 | ---------------- | ---------------- |
 | 9:00am - 9:10am | Introduction     |
-| 9:10am - 10:10am  | Keynote        |
-| 10:10am - 11:10am  | Participant Presentations       |
-| 11:10am - 11:40am  | Social Coffee Break with Interactive Posters |
-| 11:40am - 12:50pm  | Group Activity |
+| 9:10am - 10:00am  | Keynote        |
+| 10:00am - 10:30am  | Participant Presentations (Session 1)     |
+| 10:30am - 11:00am  | Social Coffee Break |
+| 11:00am - 11:45am  | Participant Presentations (Session 2)     |
+| 11:45am - 12:50pm  | Group Activity |
 | 12:50pm - 1:00pm  | Closing Remarks |
 
 {{ new_block() }}  
