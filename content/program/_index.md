@@ -37,22 +37,15 @@ title = "Navigating Generative AI Disclosure, Ownership, and Accountability in C
 
 **All times are in [CEST](https://time.is/Amsterdam) (Amsterdam, Netherlands time).**
 
-| Time                 | Submission Title                                                                 | 
+| Start Time                 | Submission Title                                                                 | 
 |-----------          |----------------------------------------------------------------------------------|
-| 10:00am    | What Shapes Writers’ Decisions Around Disclosure of AI Use? *(In-Person)*       |
-| - 10:10am  | Jingchao Fang and Mina Lee|
-| 10:10am    | Invisible Authors: Patient and Clinician Perspectives on AI-Generated Medical Notes *(In-Person)* |
-| - 10:20am             | Peiyao Liu and Norman Makoto Su|
-| 10:20am    | Rethinking Agency in AI-Enhanced Creative Work: Navigating Ownership and Cognitive Redistribution in Whiteboarding Environments *(In-Person)*     |
-| - 10:30am            | Chaeyeon Lim|
-| 11:00am    | Mirror or Mask? Actor Experiences within a Two-Stage GPT-Mediated Playwriting Pipeline *(Remote)* |                             
-| - 11:10am             | Sora Kang|
-| 11:10am    | AI-generated Media Indicators: Practices & Challenges of Navigating Indicators for Sighted and Blind Individuals *(Remote)*      |
-|  - 11:20am          | Ayae Ide, Tory Park, Jaron Mink, and Tanusree Sharma|
-| 11:20am    | Penalizing Transparency? How AI Disclosure and Author Demographics Shape Human and AI Judgments About Writing *(Remote)* |
-|  - 11:30am          | Inyoung Cheong, Alicia Guo, Mina Lee, Kowe Kadoma, Simona Liao, Dongyoung Go, Joseph Chee Chang, Peter Henderson, Mor Naaman, Amy X. Zhang|
-| 11:30am    | A Paradigm for Creative Ownership *(Remote)*  |
-|   - 11:40am         | Tejaswi Polimetla and Katy Ilonka Gero|
+| 10:00am    | What Shapes Writers’ Decisions Around Disclosure of AI Use? *(In-Person)* by Jingchao Fang and Mina Lee|
+| 10:10am    | Invisible Authors: Patient and Clinician Perspectives on AI-Generated Medical Notes *(In-Person)* by Peiyao Liu and Norman Makoto Su|
+| 10:20am    | Rethinking Agency in AI-Enhanced Creative Work: Navigating Ownership and Cognitive Redistribution in Whiteboarding Environments *(In-Person)*   by Chaeyeon Lim|
+| 11:00am    | Mirror or Mask? Actor Experiences within a Two-Stage GPT-Mediated Playwriting Pipeline *(Remote)* by Sora Kang|
+| 11:10am    | AI-generated Media Indicators: Practices & Challenges of Navigating Indicators for Sighted and Blind Individuals *(Remote)*     by Ayae Ide, Tory Park, Jaron Mink, and Tanusree Sharma|
+| 11:20am    | Penalizing Transparency? How AI Disclosure and Author Demographics Shape Human and AI Judgments About Writing *(Remote)* by Inyoung Cheong, Alicia Guo, Mina Lee, Kowe Kadoma, Simona Liao, Dongyoung Go, Joseph Chee Chang, Peter Henderson, Mor Naaman, Amy X. Zhang|
+| 11:30am    | A Paradigm for Creative Ownership *(Remote)*  by Tejaswi Polimetla and Katy Ilonka Gero|
 
 
 
