@@ -40,10 +40,10 @@ title = "Navigating Generative AI Disclosure, Ownership, and Accountability in C
 |-----------|----------------------------------------------------------------------------------|
 | 10:10 AM  | What Shapes Writers’ Decisions Around Disclosure of AI Use? *(In-Person)*       |
 | 10:20 AM  | Invisible Authors: Patient and Clinician Perspectives on AI-Generated Medical Notes *(In-Person)* |
-| 10:30 AM  | Rethinking Agency in AI-Enhanced Creative Work *(In-Person)*                     |
-| 11:00 AM  | Mirror or Mask? GPT-Mediated Playwriting *(Remote)*                              |
-| 11:10 AM  | AI-generated Media Indicators *(Remote)*                                         |
-| 11:20 AM  | Penalizing Transparency? Disclosure & Judgments *(Remote)*                       |
+| 10:30 AM  | Rethinking Agency in AI-Enhanced Creative Work: Navigating Ownership and Cognitive Redistribution in Whiteboarding Environments *(In-Person)*                     |
+| 11:00 AM  | Mirror or Mask? Actor Experiences within a Two-Stage GPT-Mediated Playwriting Pipeline *(Remote)*                              |
+| 11:10 AM  | AI-generated Media Indicators: Practices & Challenges of Navigating Indicators for Sighted and Blind Individuals *(Remote)*                                         |
+| 11:20 AM  | Penalizing Transparency? How AI Disclosure and Author Demographics Shape Human and AI Judgments About Writing *(Remote)*                       |
 | 11:30 AM  | A Paradigm for Creative Ownership *(Remote)*                                     |
 
 
