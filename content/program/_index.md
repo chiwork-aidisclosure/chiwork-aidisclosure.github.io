@@ -30,9 +30,21 @@ title = "Navigating Generative AI Disclosure, Ownership, and Accountability in C
 | 11:40am - 12:50pm  | Group Activity |
 | 12:50pm - 1:00pm  | Closing Remarks |
 
+{{ new_block() }}  
 
-<!-- {{ new_block() }} -->
+## Presentation Schedule 
 
+**All times are in [CEST](https://time.is/Amsterdam) (Amsterdam, Netherlands time).**
+
+| Time      | Submission Title                                                                 |
+|-----------|----------------------------------------------------------------------------------|
+| 10:10 AM  | What Shapes Writers’ Decisions Around Disclosure of AI Use? *(In-Person)*       |
+| 10:20 AM  | Invisible Authors: Patient and Clinician Perspectives on AI-Generated Medical Notes *(In-Person)* |
+| 10:30 AM  | Rethinking Agency in AI-Enhanced Creative Work *(In-Person)*                     |
+| 11:00 AM  | Mirror or Mask? GPT-Mediated Playwriting *(Remote)*                              |
+| 11:10 AM  | AI-generated Media Indicators *(Remote)*                                         |
+| 11:20 AM  | Penalizing Transparency? Disclosure & Judgments *(Remote)*                       |
+| 11:30 AM  | A Paradigm for Creative Ownership *(Remote)*                                     |
 
 
 
