@@ -37,7 +37,7 @@ title = "Navigating Generative AI Disclosure, Ownership, and Accountability in C
 
 **All times are in [CEST](https://time.is/Amsterdam) (Amsterdam, Netherlands time).**
 
-| Start Time                 | Submission Title                                                                 | 
+<!-- | Start Time                 | Submission Title                                                                 | 
 |-----------          |----------------------------------------------------------------------------------|
 | 10:00am    | What Shapes Writers’ Decisions Around Disclosure of AI Use? *(In-Person)* by Jingchao Fang and Mina Lee|
 | 10:10am    | Invisible Authors: Patient and Clinician Perspectives on AI-Generated Medical Notes *(In-Person)* by Peiyao Liu and Norman Makoto Su|
@@ -46,20 +46,22 @@ title = "Navigating Generative AI Disclosure, Ownership, and Accountability in C
 | 11:10am    | AI-generated Media Indicators: Practices & Challenges of Navigating Indicators for Sighted and Blind Individuals *(Remote)*     by Ayae Ide, Tory Park, Jaron Mink, and Tanusree Sharma|
 | 11:20am    | Penalizing Transparency? How AI Disclosure and Author Demographics Shape Human and AI Judgments About Writing *(Remote)* by Inyoung Cheong, Alicia Guo, Mina Lee, Kowe Kadoma, Simona Liao, Dongyoung Go, Joseph Chee Chang, Peter Henderson, Mor Naaman, Amy X. Zhang|
 | 11:30am    | A Paradigm for Creative Ownership *(Remote)*  by Tejaswi Polimetla and Katy Ilonka Gero|
+ -->
 
 
 
 
+<!-- Add "Link" in columns after all the link have been verified
 
-<!-- ## Participant Presentations
+    columns = ["Time","Submission Title","Authors","Link"],  -->
+
 
 {{ table(
     data = "papers.csv", 
-    columns = ["Title","Authors"],
-    button_names = ["paper","poster"], 
-    button_data_columns = [3,4], 
-    button_output_columns = [1,1]) }}
+    columns = ["Time","Submission Title","Authors"], 
+    button_names = ["Paper"], 
+    button_data_columns = [5,6], 
+    button_output_columns = [4,5]) 
+    }}
 
 
-
-{{ new_block() }} -->
