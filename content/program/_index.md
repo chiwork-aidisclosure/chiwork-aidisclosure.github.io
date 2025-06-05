@@ -15,6 +15,16 @@ title = "Navigating Generative AI Disclosure, Ownership, and Accountability in C
     ],
     image_dir = "organizers") }}
 
+#### Scraping the Surface: Ownership and Ethics for AI Uses of Public Data 
+
+*Abstract:* 
+As generative AI systems are increasingly embedded in society, questions around where training data comes from—and whether it should have been used in the first place—are more pressing than ever. Much of this data comes from publicly accessible sources such as social media and websites, raising complex questions around copyright, consent, and privacy. This discourse connects to longstanding discussions in the research community regarding use of public data outside traditional human subjects research ethics frameworks. This talk unpacks ethical and legal tensions surrounding AI training data, including issues of attribution, unintended consequences, privacy harms, and exploitation of vulnerable groups.
+
+*Bio:*
+Casey Fiesler is an Associate Professor and Founding Faculty in Information Science at University of Colorado Boulder. She also holds a courtesy appointment in Computer Science and an affiliation with the University of Colorado Law School through the Silicon Flatirons Institute for Law, Technology and Entrepreneurship. Her primary research communities are social computing, technology ethics and policy, and computing education. Her research been covered everywhere from The New York Times to Teen Vogue, and she has written for venues like WIRED and Slate, but you might have also seen her on TikTok or Instagram teaching the world about AI ethics. She holds a law degree from Vanderbilt Law School and a PhD in Human-Centered Computing from the Georgia Institute of Technology.
+
+
+
 {{ new_block() }}
 
 ## Schedule 
@@ -50,16 +60,10 @@ title = "Navigating Generative AI Disclosure, Ownership, and Accountability in C
 
 
 
-
-<!-- Add "Link" in columns after all the link have been verified
-
-    columns = ["Time","Submission Title","Authors","Link"],  -->
-
-
 {{ table(
     data = "papers.csv", 
-    columns = ["Time","Submission Title","Authors"], 
-    button_names = ["Paper"], 
+    columns = ["Time","Submission Title","Authors", "Link"], 
+    button_names = ["PDF"], 
     button_data_columns = [5,6], 
     button_output_columns = [4,5]) 
     }}
