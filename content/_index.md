@@ -32,7 +32,7 @@ Questions that could be explored include, but are not limited to:
     - You can make your final edits to the accepted papers before this deadline. No submission is needed if you don't make any changes.
 - **Workshop**: June 23, 2025, 9:00 AM - 1:00 PM ([CEST](https://time.is/Amsterdam))
     - Room: L017 @ [the CHIWORK venue](https://chiwork.org/attend/venue/) (Amsterdam, The Netherlands)
-    - Online Link: To be announced
+    - Online Link: We've sent out the email with the link. Please reach out to us if you haven't received the email.
    
 {{ new_block() }}
 
